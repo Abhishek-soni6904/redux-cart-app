@@ -19,9 +19,9 @@ Browse products, search, add to cart, and enjoy a smooth shopping experience!
 - Update product quantities in cart
 - Persistent cart (localStorage)
 - Responsive design with Tailwind CSS
-- Toast notifications for user actions
+- Toast notifications for user actions using React toastify.
 - Social and contact links in the footer
-
+- Loading spinners using React Spinners
 ---
 
 ## 🛠️ Tech Stack
